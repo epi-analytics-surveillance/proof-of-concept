@@ -21,3 +21,12 @@ For examples of usage, refer to the [examples](examples/) directory. For the ful
 graph LR
 S((S)) --> I((I)) --> R((R)) --> S
 ```
+
+## Software
+[![Check unit tests on supported operating systems](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_os.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_os.yml)
+
+[![Check unit tests on supported python versions](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_py.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_py.yml)
+
+[![Check code coverage](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml)
+
+[![Check code flake8](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml)
