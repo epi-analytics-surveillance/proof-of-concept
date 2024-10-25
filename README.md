@@ -24,11 +24,8 @@ S((S)) --> I((I)) --> R((R)) --> S
 
 ## Software
 [![Check unit tests on supported operating systems](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_os.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_os.yml)
-
 [![Check unit tests on supported python versions](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_py.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_unit_py.yml)
-
 [![Check code coverage](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml)
-
 [![Check code flake8](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml)
-
 [![Documentation Status](https://readthedocs.org/projects/epi-analytics-surveillanceproof-of-concept/badge/?version=latest)](https://epi-analytics-surveillanceproof-of-concept.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/epi-analytics-surveillance/proof-of-concept/graph/badge.svg?token=YKGB2U8ODU)](https://codecov.io/gh/epi-analytics-surveillance/proof-of-concept)
