@@ -32,3 +32,5 @@ S((S)) --> I((I)) --> R((R)) --> S
 [![Check code flake8](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml)
 
 [![Documentation Status](https://readthedocs.org/projects/epi-analytics-surveillanceproof-of-concept/badge/?version=latest)](https://epi-analytics-surveillanceproof-of-concept.readthedocs.io/en/latest/?badge=latest)
+
+[![codecov](https://codecov.io/gh/epi-analytics-surveillance/proof-of-concept/graph/badge.svg?token=YKGB2U8ODU)](https://codecov.io/gh/epi-analytics-surveillance/proof-of-concept)
