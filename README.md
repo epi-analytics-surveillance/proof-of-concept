@@ -13,7 +13,7 @@ pip install -e .[stan]
 Note that installing stan on your computer may involve platform-specific requirements and dependencies which are not handled automatically by the pip install.
 
 ## Usage
-For examples of usage, refer to the [examples](examples/) directory. For the full api documentation, see the [readthedocs]().
+For examples of usage, refer to the [examples](examples/) directory. For the full api documentation, see the [readthedocs](https://epi-analytics-surveillanceproof-of-concept.readthedocs.io/en/latest/).
 
 `simsurveillance` employs compartmental-type models of disease spread (SIRS).
 
@@ -30,3 +30,5 @@ S((S)) --> I((I)) --> R((R)) --> S
 [![Check code coverage](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_coverage.yml)
 
 [![Check code flake8](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml/badge.svg)](https://github.com/epi-analytics-surveillance/proof-of-concept/actions/workflows/software_testing_style.yml)
+
+[![Documentation Status](https://readthedocs.org/projects/epi-analytics-surveillanceproof-of-concept/badge/?version=latest)](https://epi-analytics-surveillanceproof-of-concept.readthedocs.io/en/latest/?badge=latest)
