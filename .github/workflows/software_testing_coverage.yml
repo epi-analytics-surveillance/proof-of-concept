@@ -27,3 +27,8 @@ jobs:
       - name: run software testing
         run: |
           coverage run run_software_testing.py --unit
+
+      - name: Upload results to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
