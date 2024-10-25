@@ -7,7 +7,6 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'simsurveillance'
-author = 'rccreswell'
 release = '0.0'
 
 # -- General configuration ---------------------------------------------------
